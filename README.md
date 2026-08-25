@@ -1,7 +1,7 @@
 # PCAP Analyzer
-
+<img width="1612" height="994" alt="Screenshot 2026-08-25 at 22 02 50" src="https://github.com/user-attachments/assets/da057a62-6bd4-40c6-a42d-ba302a3436bc" />
 A native desktop application for analysing packet captures. Load a `.pcap` /
-`.pcapng` file and it tells you, in plain language, what the traffic *is* —
+`.pcapng` file and it tells you, in plain language, what the traffic *is* 
 whether someone scanned the network, whether credentials went across in the
 clear, and where the flag is hiding.
 
@@ -39,7 +39,7 @@ Python 3.9+ with Tkinter.
 A verdict banner across the top states the headline result — `SCAN DETECTED`,
 `MALICIOUS / SENSITIVE CONTENT`, `SUSPICIOUS ACTIVITY` or `CLEAN` — before you
 open a single tab.
-
+<img width="1612" height="994" alt="Screenshot 2026-08-25 at 22 02 31" src="https://github.com/user-attachments/assets/e9fd4204-2fe0-41bf-a7b4-465d2dbd905a" />
 ### Readability
 
 * WCAG-AA contrast throughout, verified numerically: every text/background pair
